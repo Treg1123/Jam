@@ -1,0 +1,14 @@
+Player object:
+  -stats
+  -movements
+  -shoot
+  -roll/dodge
+Map generator
+Enemy object:
+  -stats
+  -pathfinding
+  -inherited objects(boss, miniboss,etc)
+ items
+ 
+ possibly:
+ 
